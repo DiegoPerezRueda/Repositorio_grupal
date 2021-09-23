@@ -1,6 +1,7 @@
 # ------------------------------------------------------
 # Convierte un número binario a decimal.
 # El binario es un string e.g. "101"
+#Este programa te ayudará a llevar a cabo ciertas tareas de forma más sencilla.
 # ------------------------------------------------------
 def bin2dec(numero_binario):
     numero_decimal = 0
