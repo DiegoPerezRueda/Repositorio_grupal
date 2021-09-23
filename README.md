@@ -1,2 +1,1 @@
-# Repositorio_grupal
- 
+Este repositorio incluye tres programas, uno para pasar de decimal a :sparkle:binario:sparkle:, otro para hacer el proceso inverso y otro para pasar de :sparkle:binario:sparkle: a **hexadecimal**
